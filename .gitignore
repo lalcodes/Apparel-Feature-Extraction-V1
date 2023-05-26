@@ -1,0 +1,27 @@
+#folders
+
+__pycache__/
+
+#files
+
+*.jpg
+*.png
+*.gif
+*.jpeg
+*.ipynb
+
+#Specific files
+
+custom_models/apparel_sample.pt
+
+
+# Ignore directory
+Custom_FRCNN/keras_frcnn/model/
+
+
+#Ignore files
+*.hdf5
+*.h5
+
+# Ignore Mac system files
+.DS_store
